@@ -1,4 +1,4 @@
-package com.myexampoint.webtoapp;
+package com.mangatz.xyz;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
