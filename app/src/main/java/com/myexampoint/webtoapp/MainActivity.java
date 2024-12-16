@@ -1,4 +1,4 @@
-package com.myexampoint.webtoapp;
+package com.manngatz.xyz;
 
 
 import android.content.DialogInterface;
@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     String ShowOrHideWebViewInitialUse = "show";
     private WebView webview ;
     private ProgressBar spinner;
-    String myurl = "https://successtar.github.io"; //Change this  to your website hostname
+    String myurl = "https://mangatz.xyz"; //Change this  to your website hostname
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
