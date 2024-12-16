@@ -1,4 +1,4 @@
-package com.myexampoint.webtoapp;
+package com.mangatz.xyz;
 
 import org.junit.Test;
 
